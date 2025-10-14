@@ -1,8 +1,8 @@
-# TypeScriptDb
+# Samurai04Db
 
 ## Overview
 
-TypeScriptDb is a project that is intended to be the starter for TS projects - particluarly APIs that will use Sequelize for database operations.
+Samurai04Db is a project that is intended to be the starter for TS projects - particluarly APIs that will use Sequelize for database operations.
 
 ## Start this project from scratch
 
@@ -18,4 +18,4 @@ npm install --save-dev typescript @types/node
 
 ## Use this project
 
-`npm i file:../TypeScriptDb`
+`npm i file:../Samurai04Db`
