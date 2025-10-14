@@ -17,3 +17,5 @@ npm install --save-dev typescript @types/node
 ```
 
 ## Use this project
+
+`npm i file:../TypeScriptDb`
